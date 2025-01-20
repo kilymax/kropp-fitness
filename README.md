@@ -5,8 +5,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/lostie21yo/kropp-fitness">
-    <img src="images\logo.png" alt="Kropp Logo" width="80" >
+  <a href="https://github.com/kilymax/kropp-fitness">
+    <img src="images\logo.png" alt="Kropp Logo" width="150" >
   </a>
 </div>
 
@@ -31,7 +31,7 @@
 
 Adaptive layout in pure HTML and CSS without using a style preprocessor.
 
-<!-- Demo video on YouTube [here](https://www.youtube.com/watch?v=4na8KFVoyZM&list=PL4lVqWiqXeK15HICGgnRiJTThgfftHEyt&index=5) -->
+<!-- Demo video on YouTube [here]() -->
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
@@ -43,7 +43,7 @@ Adaptive layout in pure HTML and CSS without using a style preprocessor.
 
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
-You can also open an already running application using [Vercel](https://kropp-fitness-chi.vercel.app/)
+You can also open an already running application using Vercel – [Kropp Fitness](https://kropp-fitness-chi.vercel.app/)
 <!-- <p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 
@@ -52,7 +52,7 @@ You can also open an already running application using [Vercel](https://kropp-fi
 
 Ilya K - [Telegram](https://t.me/leoncox) - leon.coxsw@gmail.com
 
-Project Link: [Kropp Fitness](https://github.com/lostie21yo/kropp-fitness)
+Project Link: [Kropp Fitness](https://github.com/kilymax/kropp-fitness)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
